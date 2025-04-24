@@ -59,7 +59,7 @@ function Hero() {
                             <p className='max-w-[450px] text-xl max-xl:mb-5 max-sm:text-base leading-[140%]'>Nous sommes ouverts aujourd’hui le 12 Mars 2025 du 11h à 14h et du 18h à 22h30.</p>
                         </div>
                       
-                        <CustomButton text='Commander maintenant' buttonClass='xl:hidden hover:scale-110 transition-all duration-300 ease-linear bg-[#FF7F00] py-[24px] px-[30px] text-xl max-sm:text-sm max-sm:py-[10px] max-sm:px-5 rounded-[100px] text-white font-bold' />
+                        <CustomButton text='Commander maintenant' buttonClass='xl:hidden hover:scale-95 cursor-pointer transition-all duration-300 ease-linear bg-[#FF7F00] py-[24px] px-[30px] text-xl max-sm:text-sm max-sm:py-[10px] max-sm:px-5 rounded-[100px] text-white font-bold' />
                         </div>
                     </div>
 

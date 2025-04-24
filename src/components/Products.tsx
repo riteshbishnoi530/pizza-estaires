@@ -45,7 +45,7 @@ function Products() {
                                 </div>
                                 <p className='mt-[15px]'>Mozzarella, cheddar, emmental & bleu sur une pâte croustillante.</p>
                             </div>
-                            <button className='cursor-pointer hover:scale-110 transition-all duration-300 ease-linear bg-[#FC8001] mt-[15px] max-w-[435px] text-white text-xl max-sm:text-base mx-auto flex justify-center font-semibold py-5 rounded-[17px] w-full'>Order Now</button>
+                            <button className='cursor-pointer hover:scale-95 transition-all duration-300 ease-linear bg-[#FC8001] mt-[15px] max-w-[435px] text-white text-xl max-sm:text-base mx-auto flex justify-center font-semibold py-5 rounded-[17px] w-full'>Order Now</button>
                         </SwiperSlide>
                     ))}
                 </Swiper>
@@ -68,7 +68,7 @@ function Products() {
                     </div>
                     <p className='mt-[15px]'>Mozzarella, cheddar, emmental & bleu sur une pâte croustillante.</p>
                 </div>
-                <button className='cursor-pointer hover:scale-110 transition-all duration-300 ease-linear bg-[#FC8001] mt-[15px] max-w-[435px] text-white text-xl max-sm:text-base mx-auto flex justify-center font-semibold py-5 rounded-[17px] w-full'>Order Now</button>
+                <button className='cursor-pointer hover:scale-95 transition-all duration-300 ease-linear bg-[#FC8001] mt-[15px] max-w-[435px] text-white text-xl max-sm:text-base mx-auto flex justify-center font-semibold py-5 rounded-[17px] w-full'>Order Now</button>
             </div>
 
         </div>
